@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2F2019%2F08%2F24%2Fhexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%2F</url>
+    <content type="text"><![CDATA[title: hexo博客搭建@TOC 我的方法1.首先我参考了很多很多的资料，在百度上面2.然后按照百度上面的方法慢慢来，多参考几个文章，找相同与不同3.GIt有问题复制问题的错误代码去百度，总能找到答案 搭建博客详细教程网站推荐点我有惊喜点我有糖吃这两个网站是比较详细的过程，你自己做的时候要同时参考两个。然后 Git ， nodejs的安装可以自己百度一些教程 主题安装详细步骤点我买菜涨价点我不知道说啥第二个网站是官方的教程 最重要的一步肝就完事了，哪有什么复不复杂的。]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F08%2F24%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
