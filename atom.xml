@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>wang</title>
+  <title>汪弘扬的个人博客</title>
   
-  <subtitle>hongyang</subtitle>
+  <subtitle>Welcome</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanghongyangnt.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://wanghongyangnt.github.io/</id>
   
   <author>
-    <name>wanghongyang</name>
+    <name>Mr. Wang</name>
     
   </author>
   
