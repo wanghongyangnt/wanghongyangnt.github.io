@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanghongyangnt.github.io/"/>
-  <updated>2019-08-24T15:19:59.839Z</updated>
+  <updated>2019-08-25T09:44:04.696Z</updated>
   <id>https://wanghongyangnt.github.io/</id>
   
   <author>
@@ -21,41 +21,15 @@
     <link href="https://wanghongyangnt.github.io/2019/08/24/hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <id>https://wanghongyangnt.github.io/2019/08/24/hexo个人博客搭建/</id>
     <published>2019-08-24T15:11:31.845Z</published>
-    <updated>2019-08-24T15:19:59.839Z</updated>
+    <updated>2019-08-25T09:44:04.696Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;我的方法&quot;&gt;&lt;a href=&quot;#我的方法&quot; class=&quot;headerlink&quot; title=&quot;我的方法&quot;&gt;&lt;/a&gt;我的方法&lt;/h1&gt;&lt;p&gt;1.首先我参考了很多很多的资料，在百度上面&lt;br&gt;2.然后按照百度上面的方法慢慢来，多参考几个文章，找相同与不同&lt;br&gt;3.
-        
-      
+      &lt;h1 id=&quot;我的方法&quot;&gt;&lt;a href=&quot;#我的方法&quot; class=&quot;headerlink&quot; title=&quot;我的方法&quot;&gt;&lt;/a&gt;我的方法&lt;/h1&gt;&lt;p&gt;1.首先我参考了很多很多的资料，在百度上面&lt;br&gt;2.然后按照百度上面的方法慢慢来，多参考几个文章，找相同与不同&lt;br&gt;3.GIt有问题复制问题的错误代码去百度，总能找到答案&lt;/p&gt;
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://wanghongyangnt.github.io/2019/08/24/hello-world/"/>
-    <id>https://wanghongyangnt.github.io/2019/08/24/hello-world/</id>
-    <published>2019-08-24T01:52:46.481Z</published>
-    <updated>2019-08-24T01:52:46.481Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-        
-      
-    
-    </summary>
+      <category term="经验分享" scheme="https://wanghongyangnt.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
     
     
   </entry>
